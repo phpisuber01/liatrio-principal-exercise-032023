@@ -1,2 +1,4 @@
-# liatrio-principal-exercise-032023
-Option 2 - Strategy to Kickoff then Scale
+# Liatrio Principal Interview Exercise
+
+## Executive Summary
+Blah blah
